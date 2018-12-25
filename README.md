@@ -1,7 +1,7 @@
 # testSIMD
 test efficiency of SIMD(Single Instruction Multiple Data)
 
-Implementation:
+Implementation:  
 ![alt text](https://raw.githubusercontent.com/willFederer/testSIMD/master/simdImplement.png)
-Result:
+Result:  
 ![alt text](https://raw.githubusercontent.com/willFederer/testSIMD/master/simdTestResult.png)
